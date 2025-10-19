@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /aplikasi/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://artikel.lklang.com/sitemap.xml
